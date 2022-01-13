@@ -34,11 +34,12 @@
 // 0 <= nums.length <= 3000 
 // -10⁵ <= nums[i] <= 10⁵ 
 // 
-// Related Topics 数组 双指针 排序 👍 4159 👎 0
+// Related Topics 数组 双指针 排序 👍 4252 👎 0
 
   
   package com.shuzijun.leetcode.editor.en;
 
+  import java.util.HashMap;
   import java.util.List;
   import java.util.Map;
 
@@ -49,12 +50,15 @@
       //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        int len = nums.length;
-        if(len < 3){
-            return null;
+        Map<Integer, Integer> numsMap = new HashMap<Integer, Integer>();
+        for(int i = 0; i < nums.length; i++){
+            int target = -(nums[i] + numsMap.get(nums[i]));
+            if(numsMap.containsKey(target - nums[i])){
+                return List<List<numsMap.get(nums[i]);
+            }
+            numsMap.put(nums[i], i);
         }
-
-        return null;
+        return new int[]{};
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

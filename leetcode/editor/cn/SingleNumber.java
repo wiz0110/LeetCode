@@ -24,9 +24,16 @@
       }
       //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
-
+//          位运算的三个性质
+//          1、 a 异或 0 = a;
+//          2、 a 异或 a = 0;
+//          因此，遍历数组中的每一个数，两个一样的数会等于0，那么落单的数就是它本身，因此得到答案
     public int singleNumber(int[] nums) {
-
+        int single = 0;
+        for (int num:nums){
+            single ^= num;
+        }
+        return single;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

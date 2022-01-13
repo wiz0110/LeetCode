@@ -25,6 +25,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ArrangingCoins.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ArrangingCoins.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com441" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ArrangingCoins.java" />
+              <option name="titleSlug" value="arranging-coins" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/BinarySearch.java">
           <value>
             <LeetcodeEditor>
@@ -36,6 +47,281 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/CheckIfNAndItsDoubleExist.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/CheckIfNAndItsDoubleExist.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1346" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/CheckIfNAndItsDoubleExist.java" />
+              <option name="titleSlug" value="check-if-n-and-its-double-exist" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/CoinChange.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/CoinChange.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com322" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/CoinChange.java" />
+              <option name="titleSlug" value="coin-change" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ContainerWithMostWater.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ContainerWithMostWater.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com11" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ContainerWithMostWater.java" />
+              <option name="titleSlug" value="container-with-most-water" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/CountNegativeNumbersInASortedMatrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/CountNegativeNumbersInASortedMatrix.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1351" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/CountNegativeNumbersInASortedMatrix.java" />
+              <option name="titleSlug" value="count-negative-numbers-in-a-sorted-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/CountNumberOfPairsWithAbsoluteDifferenceK.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/CountNumberOfPairsWithAbsoluteDifferenceK.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2006" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/CountNumberOfPairsWithAbsoluteDifferenceK.java" />
+              <option name="titleSlug" value="count-number-of-pairs-with-absolute-difference-k" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/DegreeOfAnArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/DegreeOfAnArray.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com697" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/DegreeOfAnArray.java" />
+              <option name="titleSlug" value="degree-of-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/FairCandySwap.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FairCandySwap.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com888" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FairCandySwap.java" />
+              <option name="titleSlug" value="fair-candy-swap" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/FibonacciNumber.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FibonacciNumber.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com509" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FibonacciNumber.java" />
+              <option name="titleSlug" value="fibonacci-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/FindFirstAndLastPositionOfElementInSortedArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FindFirstAndLastPositionOfElementInSortedArray.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com34" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FindFirstAndLastPositionOfElementInSortedArray.java" />
+              <option name="titleSlug" value="find-first-and-last-position-of-element-in-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/FindPeakElement.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FindPeakElement.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com162" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FindPeakElement.java" />
+              <option name="titleSlug" value="find-peak-element" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/FindSmallestLetterGreaterThanTarget.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FindSmallestLetterGreaterThanTarget.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com744" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FindSmallestLetterGreaterThanTarget.java" />
+              <option name="titleSlug" value="find-smallest-letter-greater-than-target" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/FindTargetIndicesAfterSortingArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FindTargetIndicesAfterSortingArray.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2089" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FindTargetIndicesAfterSortingArray.java" />
+              <option name="titleSlug" value="find-target-indices-after-sorting-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/FindTheDistanceValueBetweenTwoArrays.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FindTheDistanceValueBetweenTwoArrays.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1385" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FindTheDistanceValueBetweenTwoArrays.java" />
+              <option name="titleSlug" value="find-the-distance-value-between-two-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/FirstBadVersion.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FirstBadVersion.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com278" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FirstBadVersion.java" />
+              <option name="titleSlug" value="first-bad-version" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/FourXy4Wx.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FourXy4Wx.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.comLCP 28" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FourXy4Wx.java" />
+              <option name="titleSlug" value="4xy4Wx" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/GuessNumberHigherOrLower.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/GuessNumberHigherOrLower.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com374" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/GuessNumberHigherOrLower.java" />
+              <option name="titleSlug" value="guess-number-higher-or-lower" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/HeWeiSdeLiangGeShuZiLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/HeWeiSdeLiangGeShuZiLcof.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 57" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/HeWeiSdeLiangGeShuZiLcof.java" />
+              <option name="titleSlug" value="he-wei-sde-liang-ge-shu-zi-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/IntersectionOfTwoArrays.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/IntersectionOfTwoArrays.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com349" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/IntersectionOfTwoArrays.java" />
+              <option name="titleSlug" value="intersection-of-two-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/IntersectionOfTwoArraysIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/IntersectionOfTwoArraysIi.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com350" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/IntersectionOfTwoArraysIi.java" />
+              <option name="titleSlug" value="intersection-of-two-arrays-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/KthMissingPositiveNumber.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/KthMissingPositiveNumber.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1539" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/KthMissingPositiveNumber.java" />
+              <option name="titleSlug" value="kth-missing-positive-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LongestIncreasingSubsequence.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/LongestIncreasingSubsequence.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com300" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LongestIncreasingSubsequence.java" />
+              <option name="titleSlug" value="longest-increasing-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/LongestSubstringWithoutRepeatingCharacters.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com3" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters.java" />
+              <option name="titleSlug" value="longest-substring-without-repeating-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LuckyNumbersInAMatrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/LuckyNumbersInAMatrix.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1380" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LuckyNumbersInAMatrix.java" />
+              <option name="titleSlug" value="lucky-numbers-in-a-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/MinimumSizeSubarraySum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MinimumSizeSubarraySum.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com209" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MinimumSizeSubarraySum.java" />
+              <option name="titleSlug" value="minimum-size-subarray-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/MinimumWindowSubstring.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MinimumWindowSubstring.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com76" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MinimumWindowSubstring.java" />
+              <option name="titleSlug" value="minimum-window-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/MissingNumber.java">
           <value>
             <LeetcodeEditor>
@@ -44,6 +330,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MissingNumber.java" />
               <option name="titleSlug" value="missing-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/NimGame.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/NimGame.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com292" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/NimGame.java" />
+              <option name="titleSlug" value="nim-game" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -69,6 +366,39 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/PowxN.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/PowxN.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com50" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/PowxN.java" />
+              <option name="titleSlug" value="powx-n" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/QueShiDeShuZiLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/QueShiDeShuZiLcof.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 53 - II" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/QueShiDeShuZiLcof.java" />
+              <option name="titleSlug" value="que-shi-de-shu-zi-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/RangeSumQueryImmutable.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/RangeSumQueryImmutable.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com303" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/RangeSumQueryImmutable.java" />
+              <option name="titleSlug" value="range-sum-query-immutable" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/RemoveDuplicatesFromSortedArray.java">
           <value>
             <LeetcodeEditor>
@@ -91,11 +421,66 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/RemoveNthNodeFromEndOfList.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com19" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java" />
+              <option name="titleSlug" value="remove-nth-node-from-end-of-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/ReverseInteger.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ReverseInteger.md" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ReverseInteger.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ReverseLinkedList.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ReverseLinkedList.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com206" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ReverseLinkedList.java" />
+              <option name="titleSlug" value="reverse-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ReverseLinkedListIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ReverseLinkedListIi.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com92" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ReverseLinkedListIi.java" />
+              <option name="titleSlug" value="reverse-linked-list-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ReverseNodesInKGroup.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ReverseNodesInKGroup.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com25" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ReverseNodesInKGroup.java" />
+              <option name="titleSlug" value="reverse-nodes-in-k-group" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ReverseString.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ReverseString.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com344" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ReverseString.java" />
+              <option name="titleSlug" value="reverse-string" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -110,6 +495,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/SearchInABinarySearchTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/SearchInABinarySearchTree.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com700" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/SearchInABinarySearchTree.java" />
+              <option name="titleSlug" value="search-in-a-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/SearchInsertPosition.java">
           <value>
             <LeetcodeEditor>
@@ -118,6 +514,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/SearchInsertPosition.java" />
               <option name="titleSlug" value="search-insert-position" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/SimplifiedFractions.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/SimplifiedFractions.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1447" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/SimplifiedFractions.java" />
+              <option name="titleSlug" value="simplified-fractions" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -132,6 +539,39 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/SparseArraySearchLcci.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/SparseArraySearchLcci.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com面试题 10.05" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/SparseArraySearchLcci.java" />
+              <option name="titleSlug" value="sparse-array-search-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/SpecialArrayWithXElementsGreaterThanOrEqualX.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/SpecialArrayWithXElementsGreaterThanOrEqualX.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1608" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/SpecialArrayWithXElementsGreaterThanOrEqualX.java" />
+              <option name="titleSlug" value="special-array-with-x-elements-greater-than-or-equal-x" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/SpiralMatrixIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/SpiralMatrixIi.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com59" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/SpiralMatrixIi.java" />
+              <option name="titleSlug" value="spiral-matrix-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/Sqrtx.java">
           <value>
             <LeetcodeEditor>
@@ -143,6 +583,50 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/SquaresOfASortedArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/SquaresOfASortedArray.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com977" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/SquaresOfASortedArray.java" />
+              <option name="titleSlug" value="squares-of-a-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/SumOfMutatedArrayClosestToTarget.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/SumOfMutatedArrayClosestToTarget.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1300" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/SumOfMutatedArrayClosestToTarget.java" />
+              <option name="titleSlug" value="sum-of-mutated-array-closest-to-target" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/SumOfSquareNumbers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/SumOfSquareNumbers.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com633" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/SumOfSquareNumbers.java" />
+              <option name="titleSlug" value="sum-of-square-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/TheKWeakestRowsInAMatrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/TheKWeakestRowsInAMatrix.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1337" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/TheKWeakestRowsInAMatrix.java" />
+              <option name="titleSlug" value="the-k-weakest-rows-in-a-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/ThreeSum.java">
           <value>
             <LeetcodeEditor>
@@ -151,6 +635,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ThreeSum.java" />
               <option name="titleSlug" value="3sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/TrappingRainWater.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/TrappingRainWater.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com42" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/TrappingRainWater.java" />
+              <option name="titleSlug" value="trapping-rain-water" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -173,6 +668,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/TwoSumIiInputArrayIsSorted.java" />
               <option name="titleSlug" value="two-sum-ii-input-array-is-sorted" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/TwoVYnGI.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/TwoVYnGI.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.comLCP 18" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/TwoVYnGI.java" />
+              <option name="titleSlug" value="2vYnGI" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -206,6 +712,39 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ValidPerfectSquare.java" />
               <option name="titleSlug" value="valid-perfect-square" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/W3tCBm.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/W3tCBm.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer II 003" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/W3tCBm.java" />
+              <option name="titleSlug" value="w3tCBm" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/WordSearch.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/WordSearch.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com79" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/WordSearch.java" />
+              <option name="titleSlug" value="word-search" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ZaiPaiXuShuZuZhongChaZhaoShuZiLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ZaiPaiXuShuZuZhongChaZhaoShuZiLcof.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 53 - I" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ZaiPaiXuShuZuZhongChaZhaoShuZiLcof.java" />
+              <option name="titleSlug" value="zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
