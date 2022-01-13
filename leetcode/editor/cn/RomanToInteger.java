@@ -75,6 +75,10 @@
 
   
   package com.shuzijun.leetcode.editor.en;
+
+  import java.util.HashMap;
+  import java.util.Map;
+
   public class RomanToInteger{
       public static void main(String[] args) {
            Solution solution = new RomanToInteger().new Solution();
@@ -82,7 +86,27 @@
       //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int romanToInt(String s) {
+        Map<Character, Integer> romanNum = new HashMap<Character, Integer>();
+        romanNum.put('I', 1);
+        romanNum.put('V', 5);
+        romanNum.put('X', 10);
+        romanNum.put('L', 50);
+        romanNum.put('C', 100);
+        romanNum.put('D', 500);
+        romanNum.put('M', 1000);
 
+        int len, i;
+        int ans = 0;
+        len = s.length();
+        for (i = 0; i < len; i++){
+            int value = romanNum.get(s.charAt(i));
+            if(i < len - 1 && value < romanNum.get(s.charAt(i + 1))){
+                ans -= value;
+            } else {
+                ans += value;
+            }
+        }
+        return ans;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
