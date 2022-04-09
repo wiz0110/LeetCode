@@ -67,19 +67,19 @@
       class Solution {
           public int removeDuplicates(int[] nums) {
               int n = nums.length;
-              if (n == 0) {
+              if (n == 0){
                   return 0;
               }
-              int oldPointer = 1, newPointer = 1;
+              int fast = 0, slow = 0;
 
-              while (oldPointer < n) {
-                  if (nums[oldPointer] != nums[oldPointer - 1]) {
-                      nums[newPointer] = nums[oldPointer];
-                      newPointer++;
+              while(fast < n){
+                  if (nums[fast] != nums[slow]){
+                      slow++;
+                      nums[slow] = nums[fast];
                   }
-                  oldPointer++;
+                  fast++;
               }
-              return newPointer;
+              return slow + 1;
           }
       }
 //leetcode submit region end(Prohibit modification and deletion)

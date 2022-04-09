@@ -1,4 +1,5 @@
-  //给你单链表的头节点 head ，请你反转链表，并返回反转后的链表。
+  //给定单链表的头节点 head ，请反转链表，并返回反转后的链表的头节点。 
+//
 // 
 // 
 // 
@@ -38,17 +39,17 @@
 // 进阶：链表可以选用迭代或递归方式完成反转。你能否用两种方法解决这道题？ 
 // 
 // 
-// Related Topics 递归 链表 👍 2327 👎 0
+//
+// 
+//
+// 注意：本题与主站 206 题相同： https://leetcode-cn.com/problems/reverse-linked-list/ 
+// Related Topics 递归 链表 👍 51 👎 0
 
   
   package com.shuzijun.leetcode.editor.en;
-
-  import javax.management.ListenerNotFoundException;
-  import java.util.List;
-
-  public class ReverseLinkedList{
+  public class UHnkqh{
       public static void main(String[] args) {
-           Solution solution = new ReverseLinkedList().new Solution();
+           Solution solution = new UHnkqh().new Solution();
       }
       //leetcode submit region begin(Prohibit modification and deletion)
 /**
@@ -63,16 +64,7 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode pre = null;
-        ListNode cur = head;
 
-        while (cur != null){
-            ListNode nxt = cur.next;
-            cur.next = pre;
-            pre = cur;
-            cur = nxt;
-        }
-        return pre;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

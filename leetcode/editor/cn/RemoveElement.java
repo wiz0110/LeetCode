@@ -65,15 +65,19 @@
       //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int removeElement(int[] nums, int val) {
-        int slowIndex = 0;
+        int n = nums.length;
+        int fast = 0, slow = 0;
 
-        for(int fastIndex = 0; fastIndex < nums.length; fastIndex++){
-            if(val != nums[fastIndex]){
-                nums[slowIndex] = nums[fastIndex];
-                slowIndex++;
+        while (fast < n){
+//            不包含val，可以先对nums[slow]进行赋值，刷掉原来的值，然后让slow往前走
+//            这样就可以保证nums[0,..., slow - 1]不包含val
+            if (nums[fast] != val){
+                nums[slow] = nums[fast];
+                slow++;
             }
+            fast++;
         }
-        return slowIndex;
+        return slow;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

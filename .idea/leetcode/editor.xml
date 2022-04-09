@@ -58,6 +58,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/BestTimeToBuyAndSellStockIii.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/BestTimeToBuyAndSellStockIii.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com123" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/BestTimeToBuyAndSellStockIii.java" />
+              <option name="titleSlug" value="best-time-to-buy-and-sell-stock-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/BestTimeToBuyAndSellStockWithCooldown.java">
           <value>
             <LeetcodeEditor>
@@ -66,6 +77,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/BestTimeToBuyAndSellStockWithCooldown.java" />
               <option name="titleSlug" value="best-time-to-buy-and-sell-stock-with-cooldown" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/BestTimeToBuyAndSellStockWithTransactionFee.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/BestTimeToBuyAndSellStockWithTransactionFee.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com714" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/BestTimeToBuyAndSellStockWithTransactionFee.java" />
+              <option name="titleSlug" value="best-time-to-buy-and-sell-stock-with-transaction-fee" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -110,6 +132,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ContainerWithMostWater.java" />
               <option name="titleSlug" value="container-with-most-water" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ContainsDuplicateIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ContainsDuplicateIi.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com219" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ContainsDuplicateIi.java" />
+              <option name="titleSlug" value="contains-duplicate-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -165,6 +198,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FairCandySwap.java" />
               <option name="titleSlug" value="fair-candy-swap" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/FanZhuanLianBiaoLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FanZhuanLianBiaoLcof.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 24" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FanZhuanLianBiaoLcof.java" />
+              <option name="titleSlug" value="fan-zhuan-lian-biao-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -242,6 +286,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FirstBadVersion.java" />
               <option name="titleSlug" value="first-bad-version" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/FirstMissingPositive.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FirstMissingPositive.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com41" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FirstMissingPositive.java" />
+              <option name="titleSlug" value="first-missing-positive" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -341,6 +396,28 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LuckyNumbersInAMatrix.java" />
               <option name="titleSlug" value="lucky-numbers-in-a-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/MinimumAddToMakeParenthesesValid.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MinimumAddToMakeParenthesesValid.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com921" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MinimumAddToMakeParenthesesValid.java" />
+              <option name="titleSlug" value="minimum-add-to-make-parentheses-valid" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/MinimumInsertionsToBalanceAParenthesesString.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MinimumInsertionsToBalanceAParenthesesString.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1541" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MinimumInsertionsToBalanceAParenthesesString.java" />
+              <option name="titleSlug" value="minimum-insertions-to-balance-a-parentheses-string" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -473,6 +550,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/RemoveDuplicatesFromSortedArray.java" />
               <option name="titleSlug" value="remove-duplicates-from-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/RemoveDuplicatesFromSortedList.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/RemoveDuplicatesFromSortedList.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com83" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/RemoveDuplicatesFromSortedList.java" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-list" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -745,6 +833,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/TwoVYnGI.java" />
               <option name="titleSlug" value="2vYnGI" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/UHnkqh.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/UHnkqh.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer II 024" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/UHnkqh.java" />
+              <option name="titleSlug" value="UHnkqh" />
             </LeetcodeEditor>
           </value>
         </entry>
